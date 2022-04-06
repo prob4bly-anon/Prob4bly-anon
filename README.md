@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Learning something new everyday.
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- idk <!--𝙼𝚊𝚔𝚎 𝚖𝚢 𝚘𝚠𝚗 𝙰𝙸 𝚠𝚑𝚒𝚌𝚑 𝚌𝚊𝚗 𝚌𝚘𝚗𝚟𝚎𝚛𝚜𝚎 & 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝 𝚠𝚒𝚝𝚑 𝚞𝚜𝚎𝚛𝚜 𝚒𝚗 𝚊 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚊𝚢-->
+	- idk 
 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
