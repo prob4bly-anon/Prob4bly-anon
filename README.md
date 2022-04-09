@@ -1,4 +1,4 @@
-[![Prob4bly_anon](https://readme-typing-svg.herokuapp.com?color=48F73B&background=000000&center=true&vCenter=true&multiline=true&height=200&lines=%F0%9F%91%8B+Hey+there!;+;I'm+Durgesh)](https://github.com/prob4bly_anon)
+[![Prob4bly_anon](https://readme-typing-svg.herokuapp.com?color=48F73B&background=000000&center=true&vCenter=true&multiline=true&height=200&lines=%F0%9F%91%8B+Hey+there!;+;I'm+Durgesh)](https://github.com/prob4bly-anon)
 <!--
 This repo has been inspired by Inspired by @**Raymo111**
 
