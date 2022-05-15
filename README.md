@@ -39,5 +39,5 @@ Learning something new everyday.
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/prob4bly-anon/prob4bly-anon/master/assets/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
-[<img src="https://raw.githubusercontent.com/prob4bly-anon/prob4bly-anon/master/assets/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
+[<img src="https://raw.githubusercontent.com/prob4bly-anon/prob4bly-anon/master/assets/twitter.svg" height="40em" align="center" alt="Follow prob4bly-anon on Twitter" title="Follow prob4bly_anon on Twitter"/>](https://twitter.com/Prob4bly_anon)
+[<img src="https://raw.githubusercontent.com/prob4bly-anon/prob4bly-anon/master/assets/instagram.svg" height="40em" align="center" alt="Follow prob4bly-anon on Instagram" title="Follow prob4bly_anon on Instagram"/>](https://instagram.com/Prob4bly_Anon)
