@@ -1,6 +1,6 @@
 [![Prob4bly_anon](https://readme-typing-svg.herokuapp.com?color=48F73B&background=000000&center=true&vCenter=true&multiline=true&height=200&lines=%F0%9F%91%8B+Hey+there!;+;I'm+Durgesh)](https://github.com/prob4bly-anon)
 <!--
-This README.md file has been inspired by Inspired by @**Raymo111**
+This README.md file has been Inspired by @**Raymo111**
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 𝙰𝚕𝚜𝚘 𝚔𝚗𝚘𝚠𝚗 𝚊𝚜 @𝚙𝚛𝚘𝚋4𝚋𝚕𝚢_𝚊𝚗𝚘𝚗
 - ⌨️ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
-- 🖥 𝙱𝚊𝚌𝚔-𝚎𝚗𝚍 𝚍𝚎𝚟 (𝚓𝚞𝚜𝚝 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛) 𝚊𝚗𝚍 𝚊 𝚞𝚙𝚌𝚘𝚖𝚒𝚗𝚐 𝚑𝚊𝚌𝚔𝚎𝚛
 - 👨‍💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: 𝙿𝚢𝚝𝚑𝚘𝚗, 𝚂𝚀𝙻, 𝚓𝚜
 - 🎓 𝙿𝚛𝚊𝚌𝚝𝚒𝚜𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗
 <!-- .- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋-->
