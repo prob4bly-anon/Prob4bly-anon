@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 𝙰𝚕𝚜𝚘 𝚔𝚗𝚘𝚠𝚗 𝚊𝚜 @𝚙𝚛𝚘𝚋4𝚋𝚕𝚢_𝚊𝚗𝚘𝚗
 - ⌨️ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
-- 👨‍💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: 𝙿𝚢𝚝𝚑𝚘𝚗, 𝚂𝚀𝙻, 𝚓𝚜
-- 🎓 𝙿𝚛𝚊𝚌𝚝𝚒𝚜𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗
+- 👨‍💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: 𝙿𝚢𝚝𝚑𝚘𝚗, 𝚂𝚀𝙻, 𝙹𝚜, 𝙱𝚊𝚜𝚑
+- 🎓 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚊𝚌𝚝𝚒𝚜𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗
 <!-- .- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋-->
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢... 𝚠𝚎𝚕𝚕 𝚒𝚍𝚔
 ```yaml
 Learning something new everyday.
 ```
@@ -33,10 +33,10 @@ Learning something new everyday.
 	- idk 
 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
+	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐 & 𝚍𝚒𝚎!
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/prob4bly-anon/prob4bly-anon/master/assets/twitter.svg" height="40em" align="center" alt="Follow prob4bly-anon on Twitter" title="Follow prob4bly_anon on Twitter"/>](https://twitter.com/Prob4bly_anon)
+<!--[<img src="https://raw.githubusercontent.com/prob4bly-anon/prob4bly-anon/master/assets/twitter.svg" height="40em" align="center" alt="Follow prob4bly-anon on Twitter" title="Follow prob4bly_anon on Twitter"/>](https://twitter.com/Prob4bly_anon)-->
 [<img src="https://raw.githubusercontent.com/prob4bly-anon/prob4bly-anon/master/assets/instagram.svg" height="40em" align="center" alt="Follow prob4bly-anon on Instagram" title="Follow prob4bly_anon on Instagram"/>](https://instagram.com/Prob4bly_Anon)
