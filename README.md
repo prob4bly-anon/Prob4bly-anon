@@ -8,7 +8,6 @@
 - Passionate about programming and software development
 - Proficient in Python, SQL, JS, Bash
 - You can also find me on Instagram as @prob4bly_anon
-- **High-school student**
 
 ## ⬆ What I'm Up To
 - 🔨 Currently working on...
